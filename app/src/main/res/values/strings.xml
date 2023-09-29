@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USBGadgetConfig</string>
+    <string name="button_enable">Enable</string>
+    <string name="button_disable">Disable</string>
+</resources>
